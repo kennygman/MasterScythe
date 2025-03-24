@@ -1,0 +1,10 @@
+{
+    "name": "MasterScythe",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/kenny/MasterScythe",
+    "description": "Allows the scythe to work on all farmable plants in any biome. Features configurable range, cooldown, and support for additional plants.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "Azumatt-Official_BepInEx_ConfigurationManager-18.4.0"
+    ]
+} 
